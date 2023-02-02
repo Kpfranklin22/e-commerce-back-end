@@ -17,7 +17,7 @@
 
 This is an example of a mysql database and back-end application for an e-commerce site
 
-Here's a link to the demo video: https://drive.google.com/file/d/1Re19J4DLEkp3ZnywwyB3G8mCTdJRPkqv/view
+Here's a link to the demo video: https://drive.google.com/file/d/1kzEGiwsigVk2lPAERPfdpb8hydBoxmPo/view
 
 ## Installation
 
